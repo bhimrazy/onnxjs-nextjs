@@ -1,0 +1,38 @@
+{
+  "name": "onnxjs-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.10",
+    "tailwindcss": "^2.1.1"
+  },
+  "description": "This example shows how to use [ONNXJS](https://github.com/microsoft/onnxjs) with Next.js.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhimrazy/onnxjs-nextjs.git"
+  },
+  "keywords": [
+    "onnxjs",
+    "nextjs",
+    "squeezenet",
+    "imagenet",
+    "ai"
+  ],
+  "author": "Bhimraj Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhimrazy/onnxjs-nextjs/issues"
+  },
+  "homepage": "https://github.com/bhimrazy/onnxjs-nextjs#readme"
+}
