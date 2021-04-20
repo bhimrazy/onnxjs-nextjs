@@ -17,7 +17,7 @@
     "postcss": "^8.1.10",
     "tailwindcss": "^2.1.1"
   },
-  "description": "This example shows how to use [ONNXJS](https://github.com/microsoft/onnxjs) with Next.js.",
+  "description": "This repo shows how to use [ONNXJS](https://github.com/microsoft/onnxjs) with Next.js.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bhimrazy/onnxjs-nextjs.git"
